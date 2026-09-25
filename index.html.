@@ -6,5 +6,8 @@
 <body>
   <h1>Welcome to my website! 🚀</h1>
   <p>Website is officially LIVE.</p>
+<button onclick="alert('YOOO! 🚀 The website works!')">
+  Let's Go!
+</button>
 </body>
 </html>
